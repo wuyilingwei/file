@@ -1,7 +1,7 @@
 {
   "name": "1.20.4 Server",
   "author": "Lei",
-  "version": "2.1",
+  "version": "2.1.1",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/yige-yigeren/file/main/mc/package",
   "files": [
@@ -64,6 +64,10 @@
     {
       "path": "mods/modmenu-9.0.0.jar",
       "hash": "eb09a3b6668407df4ad9b24849d52a38c448877e"
+    },
+    {
+      "path": "mods/shulkerboxtooltip-fabric-4.0.8+1.20.4.jar",
+      "hash": "1ca512abc897d76803fcc6343b5e6f933f455c84"
     },
     {
       "path": "mods/sodium-fabric-mc1.20.3-0.5.5.jar",
