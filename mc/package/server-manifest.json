@@ -1,10 +1,14 @@
 {
-  "name": "1.20.4 Server",
+  "name": "Game",
   "author": "Lei",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/yige-yigeren/file/main/mc/package",
   "files": [
+    {
+      "path": "icon.png",
+      "hash": "2294d8f2cdb36ebaa5a34e8719fb55df055fa6a1"
+    },
     {
       "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
       "hash": "d8c8f47cadf0bec89b0539f44e3c67df73d8e048"
@@ -26,8 +30,8 @@
       "hash": "898794f5fe7051ce2c58c3c32e34d785fec7761d"
     },
     {
-      "path": "mods/fabric-api-0.91.3+1.20.4.jar",
-      "hash": "97e7a40a02f291a618ab7a63d5bd08dbcb50995e"
+      "path": "mods/fabric-api-0.92.0+1.20.4.jar",
+      "hash": "78d9a79977b8236711c7c4dd5b3e2704a03798fe"
     },
     {
       "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
@@ -82,6 +86,18 @@
       "hash": "7beae7f5f54c343bb18ff32d59631c6c02e0a000"
     },
     {
+      "path": "resourcepacks/(1.13-1.20)MIP 256X V1.7.0.zip",
+      "hash": "75557cb8566a834132cbb06bea1192494d516367"
+    },
+    {
+      "path": "resourcepacks/(1.13-1.20)低配树叶包(新版本树叶太卡用这个.zip",
+      "hash": "cf3190590068f2cfb43bb95f6906c3ec667b8226"
+    },
+    {
+      "path": "resourcepacks/(1.18-1.20)MTP 128X V1.7.1.zip",
+      "hash": "89378269bb8e808c746c921550abaea5824e078d"
+    },
+    {
       "path": "resourcepacks/Redstone+Display+v3.2forMC1.20.2_1.20.3.zip",
       "hash": "fa701f2223138e9fc162afb83f20ec27088ceff8"
     },
@@ -99,7 +115,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "83bd1a4f2805851a59208ed56041331678f0a522"
+      "hash": "41864b26be2d6b0d59c3de4233702ee0eadc0335"
     },
     {
       "path": "shaderpacks/BSL_v8.2.07.1.zip",
