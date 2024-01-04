@@ -6,6 +6,10 @@
   "fileApi": "https://raw.githubusercontent.com/yige-yigeren/file/main/mc/package",
   "files": [
     {
+      "path": "icon.png",
+      "hash": "2294d8f2cdb36ebaa5a34e8719fb55df055fa6a1"
+    },
+    {
       "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
       "hash": "d8c8f47cadf0bec89b0539f44e3c67df73d8e048"
     },
