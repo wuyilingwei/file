@@ -1,21 +1,25 @@
 {
   "name": "Game",
   "author": "Lei",
-  "version": "2.1.3",
+  "version": "2.2.0",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/yige-yigeren/file/main/mc/package",
   "files": [
-    {
-      "path": "icon.png",
-      "hash": "2294d8f2cdb36ebaa5a34e8719fb55df055fa6a1"
-    },
     {
       "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
       "hash": "d8c8f47cadf0bec89b0539f44e3c67df73d8e048"
     },
     {
+      "path": "mods/architectury-11.0.9-fabric.jar",
+      "hash": "40024929f5394b761f5878595a0aca3114b7efe2"
+    },
+    {
       "path": "mods/BetterF3-9.0.0-Fabric-1.20.4.jar",
       "hash": "38d1588b91104c7375bf81e455902a5b7b61c479"
+    },
+    {
+      "path": "mods/cloth-config-13.0.121-fabric.jar",
+      "hash": "e20f396a937a09b686aa986c802643b9adbb311e"
     },
     {
       "path": "mods/DamageVignette-2.0.2-fabric+mc1.20.x.jar",
@@ -72,6 +76,10 @@
     {
       "path": "mods/realmsfix-2.0.0.jar",
       "hash": "9d09ddef7dba4e9a78b4d48aaf20c1f65a67573f"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-14.0.688-fabric.jar",
+      "hash": "a0693dc5036ca869196a6d9eb815fad9d3a42625"
     },
     {
       "path": "mods/shulkerboxtooltip-fabric-4.0.8+1.20.4.jar",
