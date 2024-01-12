@@ -1,7 +1,7 @@
 {
   "name": "Game",
   "author": "Lei",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/yige-yigeren/file/main/mc/package",
   "files": [
@@ -14,8 +14,8 @@
       "hash": "d8c8f47cadf0bec89b0539f44e3c67df73d8e048"
     },
     {
-      "path": "mods/architectury-11.0.9-fabric.jar",
-      "hash": "40024929f5394b761f5878595a0aca3114b7efe2"
+      "path": "mods/architectury-11.0.11-fabric.jar",
+      "hash": "47ff89c1c1db390a4071c37df032b73c333846b5"
     },
     {
       "path": "mods/BetterF3-9.0.0-Fabric-1.20.4.jar",
@@ -38,8 +38,8 @@
       "hash": "898794f5fe7051ce2c58c3c32e34d785fec7761d"
     },
     {
-      "path": "mods/fabric-api-0.92.0+1.20.4.jar",
-      "hash": "78d9a79977b8236711c7c4dd5b3e2704a03798fe"
+      "path": "mods/fabric-api-0.93.1+1.20.4.jar",
+      "hash": "71f4c9540efa8d4531ff366137cf930dc3cb31d0"
     },
     {
       "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
@@ -78,8 +78,8 @@
       "hash": "eb09a3b6668407df4ad9b24849d52a38c448877e"
     },
     {
-      "path": "mods/realmsfix-2.0.0.jar",
-      "hash": "9d09ddef7dba4e9a78b4d48aaf20c1f65a67573f"
+      "path": "mods/realmsfix-2.0.2.jar",
+      "hash": "c71e27f64c5eef4e17c400d7cf7be815ba406785"
     },
     {
       "path": "mods/RoughlyEnoughItems-14.0.688-fabric.jar",
@@ -114,12 +114,20 @@
       "hash": "89378269bb8e808c746c921550abaea5824e078d"
     },
     {
+      "path": "resourcepacks/Mizunos 16 Craft JE_1.20-1.0_230610.zip",
+      "hash": "ba77f8f5344a830e984fc2ea670b773a020e60da"
+    },
+    {
       "path": "resourcepacks/Redstone+Display+v3.2forMC1.20.2_1.20.3.zip",
       "hash": "fa701f2223138e9fc162afb83f20ec27088ceff8"
     },
     {
       "path": "resourcepacks/seamless-glass-syh.zip",
       "hash": "e13cb05186d0ff3b127f883300e1c3bb67b37a82"
+    },
+    {
+      "path": "resourcepacks/VOXT PBR_U1.4.zip",
+      "hash": "f47616475fae60c2c6a3421e6306be8ca5200582"
     },
     {
       "path": "resourcepacks/Xaero地图汉化for1.20.zip",
@@ -148,6 +156,10 @@
     {
       "path": "shaderpacks/Noble v1.5.6.zip",
       "hash": "5b6b61be1698b19fa0acf1ab77ddd302e8505d02"
+    },
+    {
+      "path": "shaderpacks/nostalgia 5.0 鱼摆摆汉化.zip",
+      "hash": "348e09c3bd0e765a1efc1f2054f49eedf6ac25d8"
     }
   ],
   "addons": [
