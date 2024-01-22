@@ -6,4 +6,6 @@ Proxy with cloudflare to use the Uniform Domain Name Format and impose restricti
 
 Thanks to Github for free file storage and Cloudflare for the Pages feature!
 
-[PagesCode](pages.js)
+[PagesCode](pages.js) From [hexsen](https://www.hexsen.com/cloudflare-workers-to-google.html)
+
+Minor rewrite to adapt to file download requirements
