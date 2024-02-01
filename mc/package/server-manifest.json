@@ -1,7 +1,7 @@
 {
   "name": "Game",
   "author": "Lei",
-  "version": "2.2.2",
+  "version": "3.0",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/yige-yigeren/file/main/mc/package",
   "files": [
@@ -38,8 +38,8 @@
       "hash": "898794f5fe7051ce2c58c3c32e34d785fec7761d"
     },
     {
-      "path": "mods/fabric-api-0.93.1+1.20.4.jar",
-      "hash": "71f4c9540efa8d4531ff366137cf930dc3cb31d0"
+      "path": "mods/fabric-api-0.95.4+1.20.4.jar",
+      "hash": "f6d5bec4885374d8d7b35e745fff765069afe5dc"
     },
     {
       "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
@@ -94,12 +94,12 @@
       "hash": "999eb53c5761850e99d234812dd0f710640b79a5"
     },
     {
-      "path": "mods/XaerosWorldMap_1.37.6_Fabric_1.20.4.jar",
-      "hash": "d08eb3b6e5c06deaebe5666e663a5836c5470e17"
+      "path": "mods/XaerosWorldMap_1.37.7_Fabric_1.20.4.jar",
+      "hash": "acb34b68dc00cded554cb3eb5525881f4c15a1d3"
     },
     {
-      "path": "mods/Xaeros_Minimap_23.9.6_Fabric_1.20.4.jar",
-      "hash": "7beae7f5f54c343bb18ff32d59631c6c02e0a000"
+      "path": "mods/Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar",
+      "hash": "a9eccc98e5df49bd0a9c893d16f03945d7a81edb"
     },
     {
       "path": "resourcepacks/(1.13-1.20)MIP 256X V1.7.0.zip",
@@ -139,7 +139,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "bdd553fe19d336dfd63619ec791223874db54291"
+      "hash": "e531002a0aab5e39a5a0fecdaa2facce389a6bde"
     },
     {
       "path": "shaderpacks/BSL_v8.2.07.1.zip",
