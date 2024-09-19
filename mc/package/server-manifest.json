@@ -3,7 +3,7 @@
   "author": "Lei",
   "version": "3.0",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/yige-yigeren/file/main/mc/package",
+  "fileApi": "https://raw.githubusercontent.com/wuyilingwei/file/main/mc/package",
   "files": [
     {
       "path": "icon.png",
